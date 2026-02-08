@@ -1,0 +1,440 @@
+do	d o |
+our	o u r |
+checked	c h e c k e d |
+them	t h e m |
+so	s o |
+esquire	e s q u i r e |
+courtyard	c o u r t y a r d |
+can	c a n |
+louder	l o u d e r |
+hadn't	h a d n ' t |
+phronsie	p h r o n s i e |
+short	s h o r t |
+bond	b o n d |
+old	o l d |
+confused	c o n f u s e d |
+together	t o g e t h e r |
+painful	p a i n f u l |
+mind	m i n d |
+whispered	w h i s p e r e d |
+be	b e |
+safe	s a f e |
+life	l i f e |
+upon	u p o n |
+died	d i e d |
+cries	c r i e s |
+teach	t e a c h |
+talk	t a l k |
+hearty	h e a r t y |
+horse	h o r s e |
+fire	f i r e |
+willingly	w i l l i n g l y |
+thing	t h i n g |
+maid	m a i d |
+worth	w o r t h |
+he	h e |
+close	c l o s e |
+length	l e n g t h |
+crystal	c r y s t a l |
+might	m i g h t |
+patting	p a t t i n g |
+helped	h e l p e d |
+decided	d e c i d e d |
+but	b u t |
+clerk	c l e r k |
+stay	s t a y |
+have	h a v e |
+with	w i t h |
+chair	c h a i r |
+dismiss	d i s m i s s |
+such	s u c h |
+blackness	b l a c k n e s s |
+sister	s i s t e r |
+day	d a y |
+arm	a r m |
+come	c o m e |
+mummeries	m u m m e r i e s |
+fellow	f e l l o w |
+jasper	j a s p e r |
+friend	f r i e n d |
+everybody	e v e r y b o d y |
+van	v a n |
+crossly	c r o s s l y |
+postponement	p o s t p o n e m e n t |
+story's	s t o r y ' s |
+face	f a c e |
+tie	t i e |
+rescue	r e s c u e |
+from	f r o m |
+glad	g l a d |
+dead	d e a d |
+deep	d e e p |
+pain	p a i n |
+husband	h u s b a n d |
+squire's	s q u i r e ' s |
+room	r o o m |
+lording	l o r d i n g |
+will	w i l l |
+resented	r e s e n t e d |
+to	t o |
+after	a f t e r |
+without	w i t h o u t |
+way	w a y |
+wetting	w e t t i n g |
+purse	p u r s e |
+myself	m y s e l f |
+moment	m o m e n t |
+missus	m i s s u s |
+regained	r e g a i n e d |
+came	c a m e |
+thrust	t h r u s t |
+apparently	a p p a r e n t l y |
+hedge	h e d g e |
+ever	e v e r |
+hear	h e a r |
+was	w a s |
+departure	d e p a r t u r e |
+whim	w h i m |
+wine	w i n e |
+just	j u s t |
+bed	b e d |
+me	m e |
+enquired	e n q u i r e d |
+much	m u c h |
+don't	d o n ' t |
+must	m u s t |
+hall	h a l l |
+quite	q u i t e |
+chamber	c h a m b e r |
+mother	m o t h e r |
+should	s h o u l d |
+plucking	p l u c k i n g |
+took	t o o k |
+three	t h r e e |
+cheeks	c h e e k s |
+dragging	d r a g g i n g |
+space	s p a c e |
+wizard	w i z a r d |
+excellency	e x c e l l e n c y |
+became	b e c a m e |
+were	w e r e |
+put	p u t |
+is	i s |
+late	l a t e |
+self	s e l f |
+if	i f |
+off	o f f |
+need	n e e d |
+little	l i t t l e |
+your	y o u r |
+again	a g a i n |
+soothingly	s o o t h i n g l y |
+sent	s e n t |
+stripling	s t r i p l i n g |
+polly	p o l l y |
+excuse	e x c u s e |
+easy	e a s y |
+dealer	d e a l e r |
+never	n e v e r |
+wife	w i f e |
+began	b e g a n |
+hose	h o s e |
+won	w o n |
+admittance	a d m i t t a n c e |
+page	p a g e |
+douglas	d o u g l a s |
+half	h a l f |
+woman	w o m a n |
+pretty	p r e t t y |
+knave	k n a v e |
+had	h a d |
+hut	h u t |
+household	h o u s e h o l d |
+apprentice	a p p r e n t i c e |
+nottingham	n o t t i n g h a m |
+told	t o l d |
+said	s a i d |
+before	b e f o r e |
+her	h e r |
+wizard's	w i z a r d ' s |
+terrified	t e r r i f i e d |
+last	l a s t |
+mine	m i n e |
+most	m o s t |
+happy	h a p p y |
+few	f e w |
+truly	t r u l y |
+himself	h i m s e l f |
+dropped	d r o p p e d |
+child	c h i l d |
+she	s h e |
+years	y e a r s |
+tis	t i s |
+answered	a n s w e r e d |
+his	h i s |
+no	n o |
+henry	h e n r y |
+also	a l s o |
+crossed	c r o s s e d |
+reward	r e w a r d |
+floor	f l o o r |
+return	r e t u r n |
+the	t h e |
+more	m o r e |
+vexed	v e x e d |
+disturbing	d i s t u r b i n g |
+left	l e f t |
+could	c o u l d |
+breath	b r e a t h |
+alter	a l t e r |
+masters	m a s t e r s |
+complaint	c o m p l a i n t |
+here	h e r e |
+persuade	p e r s u a d e |
+has	h a s |
+second	s e c o n d |
+follow	f o l l o w |
+him	h i m |
+unwilling	u n w i l l i n g |
+passion	p a s s i o n |
+man	m a n |
+zest	z e s t |
+very	v e r y |
+written	w r i t t e n |
+sheriff's	s h e r i f f ' s |
+fair	f a i r |
+black	b l a c k |
+sir	s i r |
+yes	y e s |
+part	p a r t |
+wiped	w i p e d |
+quitted	q u i t t e d |
+did	d i d |
+own	o w n |
+like	l i k e |
+picture	p i c t u r e |
+expressed	e x p r e s s e d |
+men	m e n |
+returned	r e t u r n e d |
+now	n o w |
+it	i t |
+as	a s |
+into	i n t o |
+are	a r e |
+movement	m o v e m e n t |
+squire	s q u i r e |
+i	i |
+question	q u e s t i o n |
+earnest	e a r n e s t |
+an	a n |
+push	p u s h |
+thought	t h o u g h t |
+us	u s |
+tricks	t r i c k s |
+won't	w o n ' t |
+a	a |
+brown	b r o w n |
+you'll	y o u ' l l |
+let	l e t |
+yourself	y o u r s e l f |
+converse	c o n v e r s e |
+until	u n t i l |
+sons	s o n s |
+dignity	d i g n i t y |
+forget	f o r g e t |
+for	f o r |
+felt	f e l t |
+others	o t h e r s |
+beg	b e g |
+fortune	f o r t u n e |
+marvels	m a r v e l s |
+step	s t e p |
+till	t i l l |
+almost	a l m o s t |
+then	t h e n |
+reached	r e a c h e d |
+didn't	d i d n ' t |
+twasn't	t w a s n ' t |
+warn	w a r n |
+right	r i g h t |
+laugh	l a u g h |
+am	a m |
+griffin	g r i f f i n |
+grace	g r a c e |
+snatched	s n a t c h e d |
+behind	b e h i n d |
+rest	r e s t |
+believe	b e l i e v e |
+sullen	s u l l e n |
+pray	p r a y |
+twenty	t w e n t y |
+heaven	h e a v e n |
+lord	l o r d |
+golden	g o l d e n |
+gone	g o n e |
+tone	t o n e |
+quickly	q u i c k l y |
+sheriff	s h e r i f f |
+young	y o u n g |
+beating	b e a t i n g |
+though	t h o u g h |
+these	t h e s e |
+some	s o m e |
+unto	u n t o |
+boy	b o y |
+on	o n |
+bower	b o w e r |
+yet	y e t |
+strollers	s t r o l l e r s |
+cloth	c l o t h |
+tied	t i e d |
+however	h o w e v e r |
+faults	f a u l t s |
+one	o n e |
+hours	h o u r s |
+next	n e x t |
+color	c o l o r |
+vanished	v a n i s h e d |
+when	w h e n |
+sure	s u r e |
+walk	w a l k |
+how	h o w |
+mightily	m i g h t i l y |
+demanded	d e m a n d e d |
+charmed	c h a r m e d |
+bring	b r i n g |
+oh	o h |
+good	g o o d |
+castle	c a s t l e |
+certainly	c e r t a i n l y |
+thanks	t h a n k s |
+cried	c r i e d |
+bid	b i d |
+george	g e o r g e |
+entered	e n t e r e d |
+see	s e e |
+nell	n e l l |
+their	t h e i r |
+lean	l e a n |
+probably	p r o b a b l y |
+called	c a l l e d |
+court	c o u r t |
+of	o f |
+cause	c a u s e |
+impulsively	i m p u l s i v e l y |
+nearer	n e a r e r |
+forgive	f o r g i v e |
+wasn't	w a s n ' t |
+foolish	f o o l i s h |
+simply	s i m p l y |
+passed	p a s s e d |
+that	t h a t |
+scruples	s c r u p l e s |
+about	a b o u t |
+submit	s u b m i t |
+startled	s t a r t l e d |
+fence	f e n c e |
+fault	f a u l t |
+asked	a s k e d |
+go	g o |
+hung	h u n g |
+that's	t h a t ' s |
+fled	f l e d |
+swiftly	s w i f t l y |
+not	n o t |
+found	f o u n d |
+cannot	c a n n o t |
+lad	l a d |
+window	w i n d o w |
+curtain	c u r t a i n |
+anticipate	a n t i c i p a t e |
+whose	w h o s e |
+disappointment	d i s a p p o i n t m e n t |
+knew	k n e w |
+heredity	h e r e d i t y |
+pages	p a g e s |
+in	i n |
+we	w e |
+back	b a c k |
+happiness	h a p p i n e s s |
+hypocrite	h y p o c r i t e |
+beauty	b e a u t y |
+e	e |
+foes	f o e s |
+save	s a v e |
+hope	h o p e |
+silence	s i l e n c e |
+down	d o w n |
+surely	s u r e l y |
+turned	t u r n e d |
+father	f a t h e r |
+been	b e e n |
+you	y o u |
+out	o u t |
+acute	a c u t e |
+n	n |
+england	e n g l a n d |
+quiet	q u i e t |
+head	h e a d |
+take	t a k e |
+shall	s h a l l |
+devices	d e v i c e s |
+who	w h o |
+say	s a y |
+raised	r a i s e d |
+my	m y |
+vigorously	v i g o r o u s l y |
+fine	f i n e |
+within	w i t h i n |
+fixed	f i x e d |
+show	s h o w |
+any	a n y |
+what	w h a t |
+battle	b a t t l e |
+light	l i g h t |
+tell	t e l l |
+would	w o u l d |
+sleeve	s l e e v e |
+master	m a s t e r |
+counsel	c o u n s e l |
+by	b y |
+capless	c a p l e s s |
+rarely	r a r e l y |
+heard	h e a r d |
+beggar	b e g g a r |
+apartment	a p a r t m e n t |
+suspicions	s u s p i c i o n s |
+at	a t |
+robin	r o b i n |
+sleeping	s l e e p i n g |
+comrades	c o m r a d e s |
+ladies	l a d i e s |
+between	b e t w e e n |
+chance	c h a n c e |
+hussy	h u s s y |
+they	t h e y |
+woman's	w o m a n ' s |
+man's	m a n ' s |
+only	o n l y |
+stroller	s t r o l l e r |
+this	t h i s |
+rioting	r i o t i n g |
+give	g i v e |
+and	a n d |
+wearily	w e a r i l y |
+place	p l a c e |
+post	p o s t |
+against	a g a i n s t |
+polly's	p o l l y ' s |
+warrenton	w a r r e n t o n |
+presently	p r e s e n t l y |
+holding	h o l d i n g |
+still	s t i l l |
+morning	m o r n i n g |
+name	n a m e |
+fuzzy	f u z z y |
+nay	n a y |
+there	t h e r e |
+ay	a y |
+all	a l l |
+voice	v o i c e |
