@@ -3,3 +3,4 @@ model_checkpoints/
 **/model_checkpoints/
 **/models--*/
 .cache/
+.venv/
